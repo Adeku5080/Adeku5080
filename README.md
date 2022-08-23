@@ -11,7 +11,7 @@ I'm a Software Engineer, proficient with Reactjs and Laravel
 - 🌱 I’m currently learning JavaScript,Nodejs
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Intern or Junior level).
-- 📫 You can [https://docs.google.com/document/d/177duPJmuqJZAA1qzdXqEaZQMzjb4tT7wLYznqs0iBZA/edit](#) and contact me by emailing mailtoaliadeku.aam@gmail.com
+- 📫 You can [My Resume](https://docs.google.com/document/d/177duPJmuqJZAA1qzdXqEaZQMzjb4tT7wLYznqs0iBZA/edit) and contact me by emailing mailtoaliadeku.aam@gmail.com
 
 ---
 
